@@ -52,5 +52,9 @@ Implement a graphical user interface (GUI).
 Contributing
 Feel free to fork this repository and contribute by submitting a pull request. Suggestions and enhancements are always welcome!
 
+Author
+This project was designed and developed by Ronit Raj.
+Feel free to reach out on LinkedIn(Ronit049) or [ronitrajrsr0409.com] for collaboration or feedback.
+
 License
 This project is licensed under the MIT License.
