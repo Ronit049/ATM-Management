@@ -50,7 +50,7 @@ Add support for multiple accounts simultaneously.
 Integrate advanced security features like OTP-based authentication.
 Implement a graphical user interface (GUI).
 Contributing
-Feel free to fork this repository and contribute by submitting a pull request. Suggestions and enhancements are always welcome!
+
 
 Author
 This project was designed and developed by Ronit Raj.
